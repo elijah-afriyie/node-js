@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "figlet": "^1.9.3",
+    "give-me-a-joke": "^0.5.1",
+    "otp-generator": "^4.0.1"
+  }
+}
